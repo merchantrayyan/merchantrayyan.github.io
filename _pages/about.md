@@ -2,25 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: ರಯಾನ್| ریان مرچانٹ
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address:
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm a fourth (and a half) year undergraduate at the University of Florida, double-majoring in Computer Science and Linguistics. My current research projects and interests generally revolve around utilizing NLP/computational linguistics for social good, with a focus on low-resource languages. Some languages I work with/are interested in are: (Tajik) Persian, Spanish, Konkani, and Hindi/Urdu.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+At UF, I've been fortunate enough to work under the supervision of [Dr. Kevin Tang](https://kevintang.org/) in the [Speech, Lexicon, and Modeling Laboratory](https://slam.phil.hhu.de/). Our work has focused on machine transliteration between two different Persian scripts, as well as computational analysis of Spanish dialectal variation.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm currently conducting research at [Heinrich-Heine
+Universität](https://slam.phil.hhu.de/) with Dr. Tang, funded by the [SUIRP scholarship](https://cur.aa.ufl.edu/suirp/) from [UF's Center for Undergraduate Research](https://cur.aa.ufl.edu/). Check out my journal [here](SUIRP.md)!
+
+---
+
+Outside of research, I volunteer with the [Samuel Proctor Oral History Program](https://oral.history.ufl.edu/) at UF, transcribing oral histories and conducting interviews with members of the Gainesville community.
+
+I am also a carillonneur! Under the tutelage of [Dr. Laura Ellis](https://arts.ufl.edu/sites/carillon-studio/welcome/), I play the [carillon](https://arts.ufl.edu/sites/carillon-studio/welcome/) located in UF's Century Tower. I've also received instruction from [Luc Rombouts](https://beiaardschool.mechelen.be/about-us/luc-rombouts) of the [Belgian Royal Carillon School](https://beiaardschool.mechelen.be/en).
+
+
+
+#I've been lucky enough to play at carillons across #the US and Europe, check out [this map]() to see #where I've played.
