@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://merchantrayyan.github.io/al-folio/sitemap.xml
