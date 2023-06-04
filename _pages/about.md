@@ -6,7 +6,7 @@ subtitle: ರಯಾನ್ • ریان
 
 profile:
   align: right
-  image: /assets/img/headshot-3.jpg
+  image: /assets/prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address:
 
