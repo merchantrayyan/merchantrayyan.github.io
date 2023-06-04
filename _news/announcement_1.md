@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented my poster "Translating through transliteration: the case of Tajik Persian" at the 2023 LSA Annual Meeting in Denver! Poster available [here](https://www.youtube.com/watch?v=HnePjjvSOW4&list=LL&index=1&t=2s&ab_channel=LinguisticSocietyofAmerica)
+Presented my poster "Translating through transliteration: the case of Tajik Persian" at the 2023 LSA Annual Meeting in Denver! Poster available to view [here](https://www.youtube.com/watch?v=HnePjjvSOW4&list=LL&index=1&t=2s&ab_channel=LinguisticSocietyofAmerica).

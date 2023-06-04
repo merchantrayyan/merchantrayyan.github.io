@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented my talk "Translating through transliteration: the case of Tajik Persian" at the 3rd North American Conference in Linguistics (NACIL3) at UCLA!
+Presented my talk "Connecting the Persian-speaking World through Transliteration" at the 3rd North American Conference in Linguistics (NACIL3) at UCLA!
