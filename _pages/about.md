@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: ರಯಾನ್| ریان مرچانٹ
+subtitle: ರಯಾನ್ • ریان
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: /assets/img/headshot-3.jpg
   image_circular: false # crops the image to make it circular
   address:
 
@@ -25,10 +25,4 @@ Universität](https://slam.phil.hhu.de/) with Dr. Tang, funded by the [SUIRP sch
 
 ---
 
-Outside of research, I volunteer with the [Samuel Proctor Oral History Program](https://oral.history.ufl.edu/) at UF, transcribing oral histories and conducting interviews with members of the Gainesville community.
-
-I am also a carillonneur! Under the tutelage of [Dr. Laura Ellis](https://arts.ufl.edu/sites/carillon-studio/welcome/), I play the [carillon](https://arts.ufl.edu/sites/carillon-studio/welcome/) located in UF's Century Tower. I've also received instruction from [Luc Rombouts](https://beiaardschool.mechelen.be/about-us/luc-rombouts) of the [Belgian Royal Carillon School](https://beiaardschool.mechelen.be/en).
-
-
-
-#I've been lucky enough to play at carillons across #the US and Europe, check out [this map]() to see #where I've played.
+Outside of research, I volunteer with the [Samuel Proctor Oral History Program](https://oral.history.ufl.edu/), and play the [carillon](https://arts.ufl.edu/sites/carillon-studio/welcome/) located in UF's Century Tower under the tutelage of [Dr. Laura Ellis](https://arts.ufl.edu/sites/carillon-studio/welcome/). I've also received instruction from [Luc Rombouts](https://beiaardschool.mechelen.be/about-us/luc-rombouts) of the [Belgian Royal Carillon School](https://beiaardschool.mechelen.be/en).
