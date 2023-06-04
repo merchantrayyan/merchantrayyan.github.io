@@ -21,7 +21,7 @@ Hello! I'm a fourth (and a half) year undergraduate at the University of Florida
 At UF, I've been fortunate enough to work under the supervision of [Dr. Kevin Tang](https://kevintang.org/) in the [Speech, Lexicon, and Modeling Laboratory](https://slam.phil.hhu.de/). Our work has focused on machine transliteration between two different Persian scripts, as well as computational analysis of Spanish dialectal variation.
 
 I'm currently conducting research at [Heinrich-Heine
-Universität](https://slam.phil.hhu.de/) with Dr. Tang, funded by the [SUIRP scholarship](https://cur.aa.ufl.edu/suirp/) from [UF's Center for Undergraduate Research](https://cur.aa.ufl.edu/). Check out my journal [here](SUIRP.md)!
+Universität](https://slam.phil.hhu.de/) with Dr. Tang, funded by the [SUIRP scholarship](https://cur.aa.ufl.edu/suirp/) from [UF's Center for Undergraduate Research](https://cur.aa.ufl.edu/). Check out my journal [here](https://merchantrayyan.github.io/suirp/)!
 
 ---
 
