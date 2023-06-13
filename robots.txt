@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://merchantrayyan.github.io/merchantrayyan/sitemap.xml
+Sitemap: https://merchantrayyan.github.io/sitemap.xml
