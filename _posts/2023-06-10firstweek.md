@@ -5,7 +5,7 @@ date: 2023-06-10 19:21:00
 description: June 6th - Jun 10th
 tags: SUIRP, Germany, Research
 categories: sample-posts
-thumbnail: assets/img/9.jpg
+thumbnail: assets/img/strasse.jpg
 ---
 This is an example post with image galleries.
 
