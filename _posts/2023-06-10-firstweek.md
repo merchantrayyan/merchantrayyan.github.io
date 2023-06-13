@@ -7,7 +7,7 @@ tags: SUIRP, Germany, Research
 categories:
 thumbnail: assets/img/strasse.jpg
 ---
-This is an example post with image galleries.
+
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
