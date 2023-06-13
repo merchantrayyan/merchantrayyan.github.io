@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://merchantrayyan.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://merchantrayyan.github.io/blog/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-13T17:02:54+00:00</updated><id>https://merchantrayyan.github.io/blog/feed.xml</id><title type="html">Rayyan Merchant</title><subtitle>Rayyan Merchant&apos;s website
-</subtitle><entry><title type="html">My first week!</title><link href="https://merchantrayyan.github.io/blog/blog/2023/firstweek/" rel="alternate" type="text/html" title="My first week!" /><published>2023-06-10T19:21:00+00:00</published><updated>2023-06-10T19:21:00+00:00</updated><id>https://merchantrayyan.github.io/blog/blog/2023/firstweek</id><content type="html" xml:base="https://merchantrayyan.github.io/blog/blog/2023/firstweek/"><![CDATA[<p>This is an example post with image galleries.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://merchantrayyan.github.io/merchantrayyan/feed.xml" rel="self" type="application/atom+xml" /><link href="https://merchantrayyan.github.io/merchantrayyan/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-13T18:37:29+00:00</updated><id>https://merchantrayyan.github.io/merchantrayyan/feed.xml</id><title type="html">Rayyan Merchant</title><subtitle>Rayyan Merchant&apos;s website
+</subtitle><entry><title type="html">My first week!</title><link href="https://merchantrayyan.github.io/merchantrayyan/blog/2023/firstweek/" rel="alternate" type="text/html" title="My first week!" /><published>2023-06-10T19:21:00+00:00</published><updated>2023-06-10T19:21:00+00:00</updated><id>https://merchantrayyan.github.io/merchantrayyan/blog/2023/firstweek</id><content type="html" xml:base="https://merchantrayyan.github.io/merchantrayyan/blog/2023/firstweek/"><![CDATA[<p>This is an example post with image galleries.</p>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -7,13 +7,13 @@
 
   <picture>
     
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/blog/assets/img/strasse-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/blog/assets/img/strasse-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/blog/assets/img/strasse-1400.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/merchantrayyan/assets/img/strasse-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/merchantrayyan/assets/img/strasse-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/merchantrayyan/assets/img/strasse-1400.webp" />
     
 
     <!-- Fallback to the original file -->
-    <img src="/blog/assets/img/strasse.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/merchantrayyan/assets/img/strasse.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
@@ -25,13 +25,13 @@
 
   <picture>
     
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/blog/assets/img/selfie-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/blog/assets/img/selfie-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/blog/assets/img/selfie-1400.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/merchantrayyan/assets/img/selfie-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/merchantrayyan/assets/img/selfie-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/merchantrayyan/assets/img/selfie-1400.webp" />
     
 
     <!-- Fallback to the original file -->
-    <img src="/blog/assets/img/selfie.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/merchantrayyan/assets/img/selfie.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
@@ -55,13 +55,13 @@
 
   <picture>
     
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/blog/assets/img/kletterwald-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/blog/assets/img/kletterwald-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/blog/assets/img/kletterwald-1400.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/merchantrayyan/assets/img/kletterwald-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/merchantrayyan/assets/img/kletterwald-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/merchantrayyan/assets/img/kletterwald-1400.webp" />
     
 
     <!-- Fallback to the original file -->
-    <img src="/blog/assets/img/kletterwald.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/merchantrayyan/assets/img/kletterwald.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
@@ -73,13 +73,13 @@
 
   <picture>
     
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/blog/assets/img/rathaus-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/blog/assets/img/rathaus-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/blog/assets/img/rathaus-1400.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/merchantrayyan/assets/img/rathaus-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/merchantrayyan/assets/img/rathaus-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/merchantrayyan/assets/img/rathaus-1400.webp" />
     
 
     <!-- Fallback to the original file -->
-    <img src="/blog/assets/img/rathaus.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/merchantrayyan/assets/img/rathaus.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
