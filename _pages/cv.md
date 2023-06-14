@@ -6,16 +6,14 @@
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Robert Utterback | CV</title>
+  <title>Rayyan Merchant | CV</title>
 <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 ">
 
-     <link rel="shortcut icon" href="https://robertutterback.github.io/assets/img/favicon.ico">
-		 <link rel="stylesheet" href="https://robertutterback.github.io/assets/css/main.css">
 		 <!-- <link rel="shortcut icon" href="/assets/img/favicon.ico"> -->
      <!-- <link rel="stylesheet" href="/assets/css/main.css"> -->
 
-     <link rel="canonical" href="https://robertutterback.github.io/cv/">
+     <link rel="canonical" href="https://merchantrayyan.github.io/cv/">
 </head>
 
 
@@ -28,7 +26,7 @@
 
     <span class="site-title">
 
-        <strong>Robert</strong> Utterback
+        <strong>Rayyan</strong> Merchant
     </span>
 
 
@@ -36,7 +34,7 @@
 
       <div class="trigger">
         <!-- About -->
-        <a class="page-link" href="https://robertutterback.github.io/">About</a>
+        <a class="page-link" href="https://merchantrayyan.github.io/">About</a>
         <!-- <a class="page-link" href="">About</a> -->
 
         <!-- Blog -->
@@ -47,33 +45,8 @@
 
 
 
-						 <a class="page-link" href="https://robertutterback.github.io/cv/">CV</a>
+						 <a class="page-link" href="https://merchantrayyan.github.io/cv/">CV</a>
 						 <!-- <a class="page-link" href="">CV</a> -->
-
-
-
-
-
-
-
-						 <a class="page-link" href="https://robertutterback.github.io/pubs/">Publications</a>
-						 <!-- <a class="page-link" href="">Publications</a> -->
-
-
-
-						 <a class="page-link" href="https://robertutterback.github.io/resources/">Resources</a>
-						 <!-- <a class="page-link" href="">Resources</a> -->
-
-
-
-						 <a class="page-link" href="https://robertutterback.github.io/schedule/">Schedule</a>
-						 <!-- <a class="page-link" href="">Schedule</a> -->
-
-
-
-						 <a class="page-link" href="https://robertutterback.github.io/teaching/">Teaching</a>
-						 <!-- <a class="page-link" href="">Teaching</a> -->
-
 
 
         <!-- CV link -->
@@ -94,7 +67,7 @@
 
   <header class="post-header">
     <h1 class="post-title">CV</h1>
-		<h5 class="post-description">Embedded below. Download the PDF <a href="../assets/pdf/cv.pdf">here</a>.</h5>
+		<h5 class="post-description"> <a href="../assets/pdf/cv.pdf">here</a>.</h5>
   </header>
 
 	<article class="post-content CV clearfix">
@@ -117,7 +90,7 @@
     <footer>
 
   <div class="wrapper">
-    &copy; Copyright 2023 Robert Utterback.
+    &copy; Copyright 2023 Rayyan Merchant.
     Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 
@@ -129,22 +102,13 @@
     <!-- Load jQuery -->
 <script src="//code.jquery.com/jquery-1.12.4.min.js"></script>
 
-<!-- Load Common JS -->
-<script src="https://robertutterback.github.io/assets/js/common.js"></script>
+
 
 
 <!-- Load KaTeX -->
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css">
 <script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js"></script>
-<!-- <script src="/assets/js/katex.js"></script> -->
-<script src="https://robertutterback.github.io/assets/js/katex.js"></script>
 
-
-
-
-<!-- Include custom icon fonts -->
-<link rel="stylesheet" href="https://robertutterback.github.io/assets/css/font-awesome.min.css">
-<link rel="stylesheet" href="https://robertutterback.github.io/assets/css/academicons.min.css">
 
 <!-- <link rel="stylesheet" href="/assets/css/font-awesome.min.css"> -->
 <!-- <link rel="stylesheet" href="/assets/css/academicons.min.css"> -->
