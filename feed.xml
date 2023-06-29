@@ -1,5 +1,87 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://merchantrayyan.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://merchantrayyan.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-23T09:37:51+00:00</updated><id>https://merchantrayyan.github.io/feed.xml</id><title type="html">Rayyan Merchant</title><subtitle>Rayyan Merchant&apos;s website
-</subtitle><entry><title type="html">Week Two!</title><link href="https://merchantrayyan.github.io/blog/2023/weektwo/" rel="alternate" type="text/html" title="Week Two!" /><published>2023-06-17T19:21:00+00:00</published><updated>2023-06-17T19:21:00+00:00</updated><id>https://merchantrayyan.github.io/blog/2023/weektwo</id><content type="html" xml:base="https://merchantrayyan.github.io/blog/2023/weektwo/"><![CDATA[<div class="row mt-3">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://merchantrayyan.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://merchantrayyan.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-29T08:04:49+00:00</updated><id>https://merchantrayyan.github.io/feed.xml</id><title type="html">Rayyan Merchant</title><subtitle>Rayyan Merchant&apos;s website
+</subtitle><entry><title type="html">Week Three!</title><link href="https://merchantrayyan.github.io/blog/2023/weekthree/" rel="alternate" type="text/html" title="Week Three!" /><published>2023-06-24T19:21:00+00:00</published><updated>2023-06-24T19:21:00+00:00</updated><id>https://merchantrayyan.github.io/blog/2023/weekthree</id><content type="html" xml:base="https://merchantrayyan.github.io/blog/2023/weekthree/"><![CDATA[<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/takao-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/takao-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/takao-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/takao.jpeg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/IMG_9003_-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/IMG_9003_-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/IMG_9003_-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/IMG_9003_.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+</div>
+
+<p>This week, I’ve mainly been preoccupying myself with cleaning up and improving my code that I had written so far to test my model. Due to the fact that I had been so busy with school, my previous methods of training and evaluation were quite sloppy, as I had wanted to get reportable results quickly for my LSA poster and talk at NACIL. Unfortunately, that haphazard approach has definitely bitten me in the butt, and I’m now paying for the price for it. While I know this work is necessary, it certainly seems like one of those tasks that has a small payoff in relation to the hours sunk in. Nevertheless, I’m pushing on.</p>
+
+<p>Besides work, this week has been one full of travel and carillon playing for me. On Wednesday, I took a trip to Liege, Belgium to play two historic carillons that I unfortunately had never played despite living 30 minutes away from them last year. These were the first two carillons I’ve played on this trip, and getting used to the European-style console (again) along with the unique sounding bells proved to be a challenge. On Saturday, I took a trip to Venlo in the Netherlands to play one of my favorite carillons in Europe. To my surprise, the carilloneur there offered to give me the keys while he was away on vacation the next two weeks, an offer which I readily took up. As such, I’ll be heading to Venlo for the next two Saturdays to perform for a whole hour with as a large (and unwilling?) audience in the Saturday market in the town below. Afterwards on Sunday, I took a trip to Emmerich am Rhein in Germany, to play the carillon there. Due to construction on the railways around Oberhausen, the trip there and back took much longer than usual, but it was nonetheless rewarding (although I might not make that journey again soon).</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/IMG_8907-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/IMG_8907-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/IMG_8907-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/IMG_8907.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/IMG_8920-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/IMG_8920-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/IMG_8920-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/IMG_8920.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>]]></content><author><name></name></author><category term="SUIRP," /><category term="Germany," /><category term="Research" /><summary type="html"><![CDATA[June 18th - Jun 24th]]></summary></entry><entry><title type="html">Week Two!</title><link href="https://merchantrayyan.github.io/blog/2023/weektwo/" rel="alternate" type="text/html" title="Week Two!" /><published>2023-06-17T19:21:00+00:00</published><updated>2023-06-17T19:21:00+00:00</updated><id>https://merchantrayyan.github.io/blog/2023/weektwo</id><content type="html" xml:base="https://merchantrayyan.github.io/blog/2023/weektwo/"><![CDATA[<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <figure>
 
