@@ -1,5 +1,90 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://merchantrayyan.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://merchantrayyan.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-29T15:52:24+00:00</updated><id>https://merchantrayyan.github.io/feed.xml</id><title type="html">Rayyan Merchant</title><subtitle>Rayyan Merchant&apos;s website
-</subtitle><entry><title type="html">Week Three!</title><link href="https://merchantrayyan.github.io/blog/2023/weekthree/" rel="alternate" type="text/html" title="Week Three!" /><published>2023-06-24T19:21:00+00:00</published><updated>2023-06-24T19:21:00+00:00</updated><id>https://merchantrayyan.github.io/blog/2023/weekthree</id><content type="html" xml:base="https://merchantrayyan.github.io/blog/2023/weekthree/"><![CDATA[<div class="row mt-3">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://merchantrayyan.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://merchantrayyan.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-07-10T11:39:02+00:00</updated><id>https://merchantrayyan.github.io/feed.xml</id><title type="html">Rayyan Merchant</title><subtitle>Rayyan Merchant&apos;s website
+</subtitle><entry><title type="html">Week Four!</title><link href="https://merchantrayyan.github.io/blog/2023/weekfour/" rel="alternate" type="text/html" title="Week Four!" /><published>2023-07-01T19:21:00+00:00</published><updated>2023-07-01T19:21:00+00:00</updated><id>https://merchantrayyan.github.io/blog/2023/weekfour</id><content type="html" xml:base="https://merchantrayyan.github.io/blog/2023/weekfour/"><![CDATA[<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/tacos-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/tacos-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/tacos-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/tacos.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/venlo-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/venlo-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/venlo-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/venlo.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+</div>
+
+<p>After an busy weekend playing carillons in Venlo and Emmerich (and travelling to and from there), I was definitely ready for a calmer week spent working in the lab.
+As the TaCoS conference (Tagung der Computerlinguistik-Studierende) was taking place at HHU this week, I spent much of my time preparing for my presentation. I had already given a similar talk
+at NACIL in April, but included some more new information/data obtained through my research over the past few weeks. Since the conference was also more technology-focused than the last, 
+I got more into the nitty-gritty of our model architecture, and focused less on some of the linguistic challenges. I got a lot of good feedback as well as the chance to meet linguistics students from all over Germany
+(there was even a guy from Minnesota!). On the weekend, I went back to Venlo on Saturday to play while the normal carilloneur was away, before heading to Brussels for a day trip on Sunday! While my time there was a little short, 
+I tried to fit in as many touristy things as possible.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/bruss-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/bruss-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/bruss-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/bruss.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/brussels-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/brussels-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/brussels-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/brussels.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>]]></content><author><name></name></author><category term="SUIRP," /><category term="Germany," /><category term="Research" /><summary type="html"><![CDATA[June 25th - July 1st]]></summary></entry><entry><title type="html">Week Three!</title><link href="https://merchantrayyan.github.io/blog/2023/weekthree/" rel="alternate" type="text/html" title="Week Three!" /><published>2023-06-24T19:21:00+00:00</published><updated>2023-06-24T19:21:00+00:00</updated><id>https://merchantrayyan.github.io/blog/2023/weekthree</id><content type="html" xml:base="https://merchantrayyan.github.io/blog/2023/weekthree/"><![CDATA[<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <figure>
 
