@@ -1,5 +1,425 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://merchantrayyan.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://merchantrayyan.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-09-07T19:25:02+00:00</updated><id>https://merchantrayyan.github.io/feed.xml</id><title type="html">Rayyan Merchant</title><subtitle>Rayyan Merchant&apos;s website
-</subtitle><entry><title type="html">Week Five!</title><link href="https://merchantrayyan.github.io/blog/2023/weekfive/" rel="alternate" type="text/html" title="Week Five!" /><published>2023-07-07T19:21:00+00:00</published><updated>2023-07-07T19:21:00+00:00</updated><id>https://merchantrayyan.github.io/blog/2023/weekfive</id><content type="html" xml:base="https://merchantrayyan.github.io/blog/2023/weekfive/"><![CDATA[<div class="row mt-3">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://merchantrayyan.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://merchantrayyan.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-11-08T04:39:56+00:00</updated><id>https://merchantrayyan.github.io/feed.xml</id><title type="html">Rayyan Merchant</title><subtitle>Rayyan Merchant&apos;s website
+</subtitle><entry><title type="html">Week Eight</title><link href="https://merchantrayyan.github.io/blog/2023/weekeight/" rel="alternate" type="text/html" title="Week Eight" /><published>2023-07-23T19:21:00+00:00</published><updated>2023-07-23T19:21:00+00:00</updated><id>https://merchantrayyan.github.io/blog/2023/weekeight</id><content type="html" xml:base="https://merchantrayyan.github.io/blog/2023/weekeight/"><![CDATA[<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/console-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/console-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/console-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/console.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/fries-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/fries-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/fries-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/fries.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+</div>
+
+<p>Currently, my main objective is to obtain final sets of data to analyze, so much of this week was spent doing final adjustments to my models. Based on a suggestion from Dr. Tang, I looked at minimizing the size of the model embeddings, which would allow the model to train faster. To my surprise, doing so resulted in a model with similar levels of accuracy, which will help me out a lot if I need to retrain a set of models. An unfortunate part of doing ML research is the large amount of training time necessary to obtain a good set of results. As the data the model is trained on drastically affects the model’s performance, best practice generally means that your model’s performance is actually an average of the performance of several models trained on different data splits. As a result, I’ve been running a lot of models in the background as I work on the literature review for my writeup.</p>
+
+<p>Outside of work, I’ve been spending my time trying to enjoy local spots I feel that I’ve missed out on due to travelling. I visited several parks this week just to relax, and trying a number of new food spots, which is where I got the incredibly tasty kimbap and dumplings I’m holding in the photo below.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/menitrust-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/menitrust-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/menitrust-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/menitrust.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/zakk-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/zakk-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/zakk-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/zakk.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>]]></content><author><name></name></author><category term="SUIRP," /><category term="Germany," /><category term="Research" /><summary type="html"><![CDATA[July 23rd - July 29th]]></summary></entry><entry><title type="html">Week Nine</title><link href="https://merchantrayyan.github.io/blog/2023/weeknine/" rel="alternate" type="text/html" title="Week Nine" /><published>2023-07-23T19:21:00+00:00</published><updated>2023-07-23T19:21:00+00:00</updated><id>https://merchantrayyan.github.io/blog/2023/weeknine</id><content type="html" xml:base="https://merchantrayyan.github.io/blog/2023/weeknine/"><![CDATA[<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/console-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/console-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/console-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/console.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/fries-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/fries-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/fries-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/fries.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+</div>
+
+<p>Right now, I’m currently in Berlin, a place I’ve wanted to visit for over a year now. I took Friday off work and headed here for the weekend. While here, I (of course) made a few stops to view some carillons, but I was only able to play the one in the Tiergarten. One of them, in the Französischer Dom, is a super strange instrument as its almost entirely enclosed, meaning its very hard to actually hear the bells from the outside, and extremely loud in the tower itself.</p>
+
+<p>In terms of research, my work has mostly been the same since yesterday, with further testing for model training parameters. However, as most of this is done now, I’m looking into other ways of showing model accuracy such as a confusion matrix. This would help me visualize which letters are being incorrectly transliterated by the model the most.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/menitrust-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/menitrust-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/menitrust-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/menitrust.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/zakk-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/zakk-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/zakk-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/zakk.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>]]></content><author><name></name></author><category term="SUIRP," /><category term="Germany," /><category term="Research" /><summary type="html"><![CDATA[July 30th - August 5th]]></summary></entry><entry><title type="html">Week Ten (and also 11?)</title><link href="https://merchantrayyan.github.io/blog/2023/weekten/" rel="alternate" type="text/html" title="Week Ten (and also 11?)" /><published>2023-07-23T19:21:00+00:00</published><updated>2023-07-23T19:21:00+00:00</updated><id>https://merchantrayyan.github.io/blog/2023/weekten</id><content type="html" xml:base="https://merchantrayyan.github.io/blog/2023/weekten/"><![CDATA[<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/console-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/console-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/console-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/console.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/fries-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/fries-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/fries-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/fries.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+</div>
+
+<p>As my two-month lease ended on the 7th, I had to move out of my temporary home that day as well. Luckily, the post-doc in our lab was out the entire week for a conference, and was happy to let me sleep on his couch for the week while he was away. Even more luckily, he lived about a 5 minute walk away from my apartment, meaning I was able to stay in the Bilk neighborhood that I’ve grown to love.</p>
+
+<p>As this was my last full week (I left Germany on the 15th), there was not much work being done, mainly planning for when I got back. As a result of German holidays/exam period and the aforementioned conference, most of the department was gone, and so it was also quite silent during the workday. Nevertheless, I continued working on my writeup, although since the deadline was recently changed to the end of August, I was no longer quite so stressed as I had been before.</p>
+
+<p>For the weekend, I headed to Aachen to see my friends one last time before I left, although due to the university exam period, we all ended up just working together rather than doing any sort of activities. Still, it was a great last trip to round out my summer in Germany.</p>
+
+<p>On Monday, we had a laboratory dinner for me before I headed back to the USA early Tuesday morning, and it was wonderful final sendoff for my time in Düsseldorf. I really feel as though I understand what it means to conduct NLP research on a professional level, from project formation to submission, and I’m truly grateful to CURBS for allowing me to experience this through SUIRP. Even more importantly, the time I spent in Germany has allowed me to bring my thesis project to a level of completion I never would have been able to reach if I had done this work during the semester. Overall, it’s been an incredible time, and now that I’m back in the USA, I’m excited to continue refining my work and submit my final thesis in time for graduation in December.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/menitrust-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/menitrust-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/menitrust-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/menitrust.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/zakk-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/zakk-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/zakk-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/zakk.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>]]></content><author><name></name></author><category term="SUIRP," /><category term="Germany," /><category term="Research" /><summary type="html"><![CDATA[August 6th - August 15th]]></summary></entry><entry><title type="html">Week Seven</title><link href="https://merchantrayyan.github.io/blog/2023/weekseven/" rel="alternate" type="text/html" title="Week Seven" /><published>2023-07-22T19:21:00+00:00</published><updated>2023-07-22T19:21:00+00:00</updated><id>https://merchantrayyan.github.io/blog/2023/weekseven</id><content type="html" xml:base="https://merchantrayyan.github.io/blog/2023/weekseven/"><![CDATA[<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/console-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/console-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/console-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/console.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/fries-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/fries-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/fries-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/fries.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+</div>
+
+<p>As I approach the last three weeks, my tasks have definitely become more writeup-focused. I’m still working with the HPC to test  the effects of a greater batch size, and I’m also refining the metrics I’m using to evaluate my model. There are two ways to evaluate my work, its raw accuracy and general comprehensibility, and the second is definitely a lot more difficult to translate to technical terms. As the results of my work need to be made clear to non-Persian speakers, this adds another layer of difficulty to the process of deciding which metrics are most appropriate.</p>
+
+<p>This week, one of my friends from my exchange was in the city to see family, so we went to the Düsseldorfer Kirmes, the local fair, which was right on the river and packed. German town fairs seem to have a wider variety of foods available, and many different places to get beer as well, which was quite interesting.</p>
+
+<p>On Saturday, I finally took the trip to the relatively nearby city of Arnhem, where I played the carillon located in the Eusebius Church. The church had a very cool all-glass outlook that you could step onto, and it had a great view of the city.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/menitrust-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/menitrust-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/menitrust-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/menitrust.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/zakk-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/zakk-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/zakk-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/zakk.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>]]></content><author><name></name></author><category term="SUIRP," /><category term="Germany," /><category term="Research" /><summary type="html"><![CDATA[July 16th - July 22nd]]></summary></entry><entry><title type="html">Week Six</title><link href="https://merchantrayyan.github.io/blog/2023/weeksix/" rel="alternate" type="text/html" title="Week Six" /><published>2023-07-16T19:21:00+00:00</published><updated>2023-07-16T19:21:00+00:00</updated><id>https://merchantrayyan.github.io/blog/2023/weeksix</id><content type="html" xml:base="https://merchantrayyan.github.io/blog/2023/weeksix/"><![CDATA[<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/console-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/console-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/console-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/console.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/fries-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/fries-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/fries-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/fries.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+</div>
+
+<p>This week, I began working on the writeup for my submission due on the 15th, and discovered the implementing foreign orthographies in Overleaf is a bit of a pain. After some time, I was able to get fonts for both Tajik Cyrillic (basically Russian with additional letters) and Perso-Arabic (basically Arabic with additional letters) working. This allowed me to include actual examples (glosses) in my writeup. As my work deals with the many differences between orthograhies, showing as many examples as possible in each script is extremely important.</p>
+
+<p>I also started working more with the HPC, the supercomputer at Heinrich-Heine University, as I required more computing power than I was able to tap into with the lab machine at UF that I was remotely accessing. In my meeting with Dr. Tang last week, I brought in relevant literature from related research papers that showed that implementing a higher batch size when training our model would likely lead to better results. If the HPC works as it should, this should lead to better results.</p>
+
+<p>Unexpectedly, I was also able to play for a fourth time in Venlo, as the carillonneur was unexpectedly unable to play that week. As this was my last week, I made sure to stop by the store ‘Zwei Brüder’, which had tons of deals that attract Germans there every week. I made sure to pick up some souvenirs for my parents, including some Douwe Egberts coffee and limited edition Fanta-flavored Mentos.</p>
+
+<p>Later in the day, I headed to ZAKK Halle to see one of my favorite bands, Men I Trust, live in concert! I had been able to hear them last year in Cologne, and it was a great experience to see them again in Düsseldorf on their only German stop of the European tour.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/menitrust-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/menitrust-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/menitrust-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/menitrust.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/zakk-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/zakk-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/zakk-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/zakk.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>]]></content><author><name></name></author><category term="SUIRP," /><category term="Germany," /><category term="Research" /><summary type="html"><![CDATA[July 8th - July 15th]]></summary></entry><entry><title type="html">Week Five!</title><link href="https://merchantrayyan.github.io/blog/2023/weekfive/" rel="alternate" type="text/html" title="Week Five!" /><published>2023-07-08T19:21:00+00:00</published><updated>2023-07-08T19:21:00+00:00</updated><id>https://merchantrayyan.github.io/blog/2023/weekfive</id><content type="html" xml:base="https://merchantrayyan.github.io/blog/2023/weekfive/"><![CDATA[<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <figure>
 
