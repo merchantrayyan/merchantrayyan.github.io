@@ -5,16 +5,16 @@ date: 2023-07-22 19:21:00
 description: July 16th - July 22nd
 tags: SUIRP, Germany, Research
 categories:
-thumbnail: assets/img/zakk.jpg
+thumbnail: assets/img/kirmes.jpg
 ---
 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/console.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/glass.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/fries.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/kirmes.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -29,9 +29,9 @@ On Saturday, I finally took the trip to the relatively nearby city of Arnhem, wh
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/menitrust.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/bridge.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/zakk.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/arnhem.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>

@@ -5,16 +5,16 @@ date: 2023-07-23 19:21:00
 description: July 23rd - July 29th
 tags: SUIRP, Germany, Research
 categories:
-thumbnail: assets/img/zakk.jpg
+thumbnail: assets/img/river.jpg
 ---
 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/console.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/fountain.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/fries.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/food.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -27,9 +27,9 @@ Outside of work, I've been spending my time trying to enjoy local spots I feel t
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/menitrust.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/rivertwo.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/zakk.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/river.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
