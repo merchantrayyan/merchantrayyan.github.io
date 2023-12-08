@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Persian Machine Transliteration
+title: {Persian Machine Transliteration}
 description: Between Farsi and Tajiki
 img: assets/img/translit.png
 importance: 1
