@@ -1,7 +1,7 @@
 ---
 layout: page
-title: {Effect of Pronouns on Gender Bias}
-description: {A Simulation Study}
+title: Effect of Pronouns on Gender Bias
+description: A Simulation Study
 img: assets/img/pronoun_poster.png
 importance: 999
 category: work
